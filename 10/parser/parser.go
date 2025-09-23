@@ -1,5 +1,5 @@
 // Package parser
-package parser // Этот файл теперь в пакете 'parser'
+package parser
 
 import (
 	"fmt"
@@ -8,8 +8,6 @@ import (
 	"github.com/akamensky/argparse"
 )
 
-// SortOptions теперь живет здесь, в пакете parser.
-// Структура должна начинаться с большой буквы, чтобы быть видимой в main.
 type SortOptions struct {
 	Column               int
 	NumericSort          bool
@@ -22,7 +20,6 @@ type SortOptions struct {
 	FilePath             string
 }
 
-// ParseFlags также должна быть с большой буквы, чтобы быть видимой.
 func ParseFlags() (*SortOptions, error) {
 	parser := argparse.NewParser("sort", "Утилита для сортировки строк в файле")
 

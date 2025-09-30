@@ -85,13 +85,13 @@ func SortDefault(lines [][]string, r bool) {
 }
 
 func GetUniqueLines(lines [][]string) [][]string {
-	seen := make(map[string]struct{})
+	seenWord := make(map[string]struct{})
 	var result [][]string
 
 	for _, line := range lines {
 		key := strings.Join(line, "\x00")
-		if _, ok := seen[key]; !ok {
-			seen[key] = struct{}{}
+		if _, ok := seenWord[key]; !ok {
+			seenWord[key] = struct{}{}
 			result = append(result, line)
 		}
 	}

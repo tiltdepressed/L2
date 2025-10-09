@@ -1,0 +1,100 @@
+Line 001: apple at start
+Line 002: lorem ipsum
+Line 003: Apple case test
+Line 004: banana split
+Line 005: apple banana mix
+Line 006: nothing special
+Line 007: Orange color
+Line 008: foo.bar with dot
+Line 009: a+b*c? regex
+Line 010: apple at ten
+Line 011: grape and kiwi
+Line 012: ORANGE uppercase
+Line 013: banana BANANA
+Line 014: fixed string test
+Line 015: apple before edge context
+Line 016: brackets [test]
+Line 017: parenthesis (group)
+Line 018: pipe a|b alternative
+Line 019: escape \ backslash
+Line 020: foo[bar] and x+y*z?
+Line 021: cherry pie
+Line 022: Apple again
+Line 023: lemon zest
+Line 024: avocado toast
+Line 025: apple middle
+Line 026: mint and basil
+Line 027: banana bread
+Line 028: regex .* match?
+Line 029: caret ^ and dollar $
+Line 030: apple thirty
+Line 031: Orange juice
+Line 032: nothing here
+Line 033: BANANA shout
+Line 034: applesauce
+Line 035: apple adjacent
+Line 036: date and fig
+Line 037: grape grape
+Line 038: foo(bar) call
+Line 039: question? marks?
+Line 040: (group|alt) and a+b*c?
+Line 041: kiwi fruit
+Line 042: orange ORANGE mix
+Line 043: banana peel
+Line 044: apple pie
+Line 045: apple+banana
+Line 046: simple text
+Line 047: just words
+Line 048: foo.bar.baz
+Line 049: [brackets] here
+Line 050: apple at fifty
+Line 051: Orange on fifty-one
+Line 052: lorem ipsum
+Line 053: banana field
+Line 054: apple core
+Line 055: application word contains apple
+Line 056: regex \d+ digits?
+Line 057: symbols ^$[](){}
+Line 058: path /home/user
+Line 059: tabs	and	spaces
+Line 060: a+b*c? and (foo|bar)
+Line 061: kiwi banana
+Line 062: Apple vs apple
+Line 063: lemon-lime
+Line 064: nothing useful
+Line 065: apple sixt y-five
+Line 066: grapes
+Line 067: Orange ORANGE orange
+Line 068: foo?bar*
+Line 069: anchors ^start and end$
+Line 070: apple seventy
+Line 071: text only
+Line 072: BANANA banana Banana
+Line 073: regex (capt)ure
+Line 074: bracket [a-z]
+Line 075: apple near seventy-five
+Line 076: case INSENSITIVE test
+Line 077: Orange peel
+Line 078: more words
+Line 079: banana boat
+Line 080: (nested (groups)) and foo[bar]
+Line 081: kiwi smoothie
+Line 082: apples apple apple
+Line 083: silent line
+Line 084: fixed-string vs regex
+Line 085: apple85 end
+Line 086: path C:\Windows
+Line 087: quotes "double" and 'single'
+Line 088: dots.....
+Line 089: brackets {curly}
+Line 090: apple ninety
+Line 091: Orange ninety-one
+Line 092: plain line
+Line 093: banana ninety-three
+Line 094: apple pen
+Line 095: pineapple contains apple
+Line 096: semicolons; commas, etc.
+Line 097: spaces at end    
+Line 098: tabs	at	start
+Line 099: unicode café naïve résumé
+Line 100: apple at end

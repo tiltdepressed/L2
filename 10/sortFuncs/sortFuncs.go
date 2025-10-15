@@ -45,7 +45,7 @@ func SortByColumn(lines [][]string, k int, r, n bool) {
 	sort.Slice(lines, func(i, j int) bool {
 		colIndex := k - 1
 		if len(lines[i]) <= colIndex || len(lines[j]) <= colIndex {
-			return false
+			return err
 		}
 
 		valI := lines[i][colIndex]

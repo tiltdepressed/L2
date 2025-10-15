@@ -2,13 +2,13 @@ package main
 
 import (
 	"fmt"
-	"sort"
+	"strconv"
 )
 
 func main() {
 	// for idx, val := range "РoМa" {
 	// 	fmt.Println(idx, val)
 	// }
-	line := "zxc"
-	fmt.Println(sort.Sort(line))
+	l := "123a"
+	fmt.Println(strconv.Atoi(l))
 }
